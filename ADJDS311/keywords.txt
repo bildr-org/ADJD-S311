@@ -1,0 +1,28 @@
+#######################################################
+#  keywords.txt - keywords file for the ADJDS311 library
+
+#  Created by Adam Meyer of bildr Jan 28th 2012
+
+#  Released as MIT license
+
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADJDS311	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+calibrate	KEYWORD2
+ledOn	KEYWORD2
+ledOff	KEYWORD2
+read	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
